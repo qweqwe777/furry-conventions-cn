@@ -1,10 +1,10 @@
 # MANIFEST — 发布物清单与校验和
 # 由 scripts/make_manifest.py 生成，请勿手改
-# 文件数 28　合计 1,134,754 字节
+# 文件数 28　合计 1,135,168 字节
 
 path                                    bytes  sha256
 ---------------------------------------------------------------------------------------------------------------
-CITATION.cff                              992  46f2c473e2d6a2a73c9340ab2aad16a08b0c2a5cfc6a4929c5c6bb7c71d82a28
+CITATION.cff                             1133  fc699c27e9b0db128bc47743b7b767e0bc066df4a2034f479d938c9f9b4c0037
 data/changes_20261018_120009.json        9302  a3da69b03905f051cb2682597e3750df79c307abebb1039a8710888d2edf4bc9
 data/fec_events_clean.csv              165457  1065c28f9d51be7ae084a7669517ae11bd476f11063c0936e069ba4e5bc03e1f
 data/fec_events_clean.json             459897  73bc70a66e9c0f18fe7f20c1fdec1dbd4e7205b1ff8a77b4905f87adac9eef20
@@ -22,7 +22,7 @@ docs/methodology.md                      8464  8f8cbff6c018b0fcfa67206f749077693
 docs/snapshot_diff.txt                   1575  272026fd8276c70675d93574f6f15376163138163b5e5b4f66334586da009277
 docs/summary.txt                         5441  09f482f2c824927704a2eb4702d7b9ab14db9bca623ef5f03636cb54f386c6f0
 LICENSE                                 18657  9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
-README.md                                7858  118c06282b7934104d28e783dc8b68ca626e8f48d155fd95e955b669ff743cf6
+README.md                                8131  c951b27342e3141e60b18b57a841b37ff29722e4f8acf46ed7566dd618381cf7
 scripts/00_scrape.cmd                     345  d2db284a4f8ec8731d17564006f9172891f673a3d65f0701bdab77ad6b73c56a
 scripts/00_scrape.py                    16046  3d4e75f592e2c5d14ec31dd955804f1d7a5b72e8200a47d2ce4d9c5df1124bf6
 scripts/01_profile.py                    2078  2387d6a625b92b3c6f90e6a0b4b2cecdf2c3de65daa1f45f8abb328addad47bd

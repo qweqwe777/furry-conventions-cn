@@ -4,10 +4,14 @@ A census of **511 furry-fandom events** held in mainland China, Hong Kong and
 Taiwan between 2015 and 2027 — dates, cities, venues, organisers, size tiers —
 as a snapshot taken on **2026-10-17**.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23448131.svg)](https://doi.org/10.5281/zenodo.23448131)
 
-> The DOI badge above is a placeholder. It is replaced with the real DOI after
-> the first Zenodo release; until then, cite this repository by URL.
+> Two DOIs, two jobs. The badge points at the **concept DOI**
+> [`10.5281/zenodo.23448131`](https://doi.org/10.5281/zenodo.23448131), which
+> always resolves to the newest version — cite that when you want "this dataset".
+> The BibTeX entry below pins the **version DOI**
+> [`10.5281/zenodo.23448132`](https://doi.org/10.5281/zenodo.23448132) — cite that
+> when you need exactly the bytes analysed in a paper.
 
 ---
 
@@ -126,7 +130,7 @@ silently corrected.
   year      = {2026},
   publisher = {Zenodo},
   version   = {1.0.0},
-  doi       = {10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.23448132}
 }
 ```
 
