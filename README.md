@@ -6,12 +6,13 @@ as a snapshot taken on **2026-10-17**.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23448131.svg)](https://doi.org/10.5281/zenodo.23448131)
 
-> Two DOIs, two jobs. The badge points at the **concept DOI**
+> **On DOIs.** The badge and the BibTeX entry below both use the *concept DOI*
 > [`10.5281/zenodo.23448131`](https://doi.org/10.5281/zenodo.23448131), which
-> always resolves to the newest version — cite that when you want "this dataset".
-> The BibTeX entry below pins the **version DOI**
-> [`10.5281/zenodo.23448132`](https://doi.org/10.5281/zenodo.23448132) — cite that
-> when you need exactly the bytes analysed in a paper.
+> always resolves to the newest release — cite that by default, it cannot go
+> stale. Each release additionally has its own *version DOI*, printed on that
+> release's Zenodo record page, which pins exactly those bytes; use it when
+> reproducing a specific analysis. No version DOI is written here on purpose:
+> a file cannot cite the DOI of the release that contains it.
 
 ---
 
@@ -135,9 +136,8 @@ silently corrected.
 
 That is the **concept DOI**: it always resolves to the newest release, so the
 citation cannot go stale. If you need exactly the bytes a paper analysed, use
-the version DOI for that release instead — v1.0.0 is
-[`10.5281/zenodo.23448132`](https://doi.org/10.5281/zenodo.23448132). Every
-release prints its own version DOI on its Zenodo record page.
+the version DOI printed on that release's Zenodo record page instead — every
+release gets its own.
 
 A [`CITATION.cff`](CITATION.cff) is included for GitHub's "Cite this repository"
 button. If you use this dataset, please also cite the source calendar

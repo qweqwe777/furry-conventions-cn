@@ -11,7 +11,7 @@ abstract: >-
 authors:
   - name: "圈层观察员"
     affiliation: "Independent researcher"
-version: 1.0.0
+version: 1.0.2
 date-released: "2026-10-18"
 license: CC-BY-4.0
 keywords:
@@ -26,7 +26,7 @@ repository-code: "https://github.com/qweqwe777/furry-conventions-cn"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.23448131"
-    description: "Concept DOI - always resolves to the latest version."
-  - type: doi
-    value: "10.5281/zenodo.23448132"
-    description: "Version DOI of v1.0.0 - resolves to exactly those bytes."
+    description: >-
+      Concept DOI. Always resolves to the newest release, so this citation
+      cannot go stale. Each release also has its own version DOI, printed on
+      that release's Zenodo record page; use it to pin exact bytes.
