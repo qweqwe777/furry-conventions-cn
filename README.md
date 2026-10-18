@@ -129,16 +129,15 @@ silently corrected.
   title     = {Chinese Furry Convention Dataset, 2015--2027},
   year      = {2026},
   publisher = {Zenodo},
-  version   = {1.0.0},
-  doi       = {10.5281/zenodo.23448132}
+  doi       = {10.5281/zenodo.23448131}
 }
 ```
 
-The BibTeX above pins the **version DOI**
-([`10.5281/zenodo.23448132`](https://doi.org/10.5281/zenodo.23448132)) — that is
-the right choice when you need exactly the bytes a paper analysed. To cite "this
-dataset, whatever the latest release is", use the concept DOI
-[`10.5281/zenodo.23448131`](https://doi.org/10.5281/zenodo.23448131) instead.
+That is the **concept DOI**: it always resolves to the newest release, so the
+citation cannot go stale. If you need exactly the bytes a paper analysed, use
+the version DOI for that release instead — v1.0.0 is
+[`10.5281/zenodo.23448132`](https://doi.org/10.5281/zenodo.23448132). Every
+release prints its own version DOI on its Zenodo record page.
 
 A [`CITATION.cff`](CITATION.cff) is included for GitHub's "Cite this repository"
 button. If you use this dataset, please also cite the source calendar
