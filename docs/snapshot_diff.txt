@@ -1,0 +1,26 @@
+快照还原报告
+============================================================
+生成时间        : 2026-10-18 14:33:12 +0800
+最新导出（10-18）: 503 行
+补回被删记录     : 8 行
+快照合计（10-17）: 511 行
+
+被站点删除、本数据集予以保留的条目：
+  2026-12-31  福州    踏岁长歌  (medium, scheduled)  key=2026-dec-fuzhou-con-jq1dj6n
+  2027-02-11  台州    第四届  (small, )  key=2027-feb-taizhou-con
+  2027-01-22  昆明    暖冬奇迹  (medium, scheduled)  key=2027-jan-kunming-con-wmkh6dp
+  2027-08-27  义乌    山海赴约  (small, scheduled)  key=2027-aug-yiwu-con-m95thx2
+  2027-01-22  郑州    2701  (cosy, scheduled)  key=2027-jan-zhengzhou-con-sdw4k5l
+  2026-01-23  长春    2.0  (small, scheduled)  key=2026-jan-changchun-con-356ejkx
+  2026-12-31  广州    星回启元  (medium, scheduled)  key=2026-dec-guangzhou-con-kzoc20r
+  2027-01-15  长春    3.0  (small, scheduled)  key=2027-jan-changchun-con-fugdnqm
+
+10-18 被站点修正的字段（本数据集采用修正后的值）：
+  2025-jan-changchun-con-2l7i2l6  name: '1.0' -> '拼兽聚'
+  2026-aug-shenyang-con-yf6kdrs  end_date: '' -> '2026-08-08'
+  2026-apr-ningbo-con-419ld85  end_date: '' -> '2026-04-19'
+  2027-jan-changchun-con-em0680u  name: '起源' -> '起源2027'
+
+注意：源站点会删除条目。10-17 与 10-18 两次抓取相差 8 条，
+这不是抓取错误，而是站点侧的内容治理。复现论文表格请用本文件
+（511 行），复现「站点当前状态」请用 data/fec_raw.csv（503 行）。

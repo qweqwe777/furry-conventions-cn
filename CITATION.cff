@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Chinese Furry Convention Dataset, 2015-2027"
+abstract: >-
+  A census of 511 furry-fandom events held in mainland China, Hong Kong and
+  Taiwan between 2015 and 2027 - dates, cities, venues, organisers and size
+  tiers - as a snapshot taken on 2026-10-17. Collected from FEC 兽展日历
+  (furrycons.cn), a community-maintained calendar. Contains no attendance
+  figures; the size tier is the source's own estimate.
+authors:
+  - name: "圈层观察员"
+    affiliation: "Independent researcher"
+version: 1.0.0
+date-released: "2026-10-18"
+license: CC-BY-4.0
+keywords:
+  - furry fandom
+  - subculture
+  - conventions
+  - China
+  - event calendar
+  - 兽圈
+  - 兽展
+repository-code: "https://github.com/qweqwe777/furry-conventions-cn"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.XXXXXXX"
+    description: "Placeholder - replaced with the real DOI after the first Zenodo release."

@@ -1,0 +1,37 @@
+encoding: utf-8-sig
+rows: 503  cols: 34
+
+eventKey	0.0%	491	2015-jun-taibei-con-g8tkoyf
+id	0.0%	503	6eaa3ecc-390f-463d-bf1e-86b3a49c4685
+slug	0.0%	447	2015-jun-taibei-con
+name	0.0%	478	2015
+start_date	0.0%	329	2015-06-27
+end_date	0.0%	334	2015-06-27
+year	0.0%	13	2015
+weekday_start	0.0%	7	六
+days	0.0%	10	1
+scale	0.0%	6	cosy
+status	0.0%	4	scheduled
+city	0.0%	80	台北
+city_slug	0.0%	80	taibei
+country	0.0%	2	台湾
+macro_region	0.0%	7	台湾
+org_slug	0.0%	171	only
+org_name	0.0%	171	人外&兽人Only
+organizer_count	0.0%	4	1
+fetched	0.0%	1	1
+has_desc	0.0%	2	0
+detail_len	0.0%	263	0
+source_count	0.0%	3	1
+ticket_channel_count	0.0%	2	0
+image_count	0.0%	11	0
+url	0.0%	491	https://www.furrycons.cn/only/2015-jun-t
+place_name	7.2%	379	中正区 耕莘文教院
+place_kind	7.2%	2	venue
+address	7.2%	379	中正区 耕莘文教院
+locationType	19.7%	2	hotel
+lat	20.5%	308	25
+lng	20.5%	304	121.56
+pageviews	32.2%	275	141
+type	34.0%	5	fandom-meetup
+source_names	66.8%	28	WikiFur

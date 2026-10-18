@@ -1,0 +1,34 @@
+# MANIFEST — 发布物清单与校验和
+# 由 scripts/make_manifest.py 生成，请勿手改
+# 文件数 28　合计 1,134,754 字节
+
+path                                    bytes  sha256
+---------------------------------------------------------------------------------------------------------------
+CITATION.cff                              992  46f2c473e2d6a2a73c9340ab2aad16a08b0c2a5cfc6a4929c5c6bb7c71d82a28
+data/changes_20261018_120009.json        9302  a3da69b03905f051cb2682597e3750df79c307abebb1039a8710888d2edf4bc9
+data/fec_events_clean.csv              165457  1065c28f9d51be7ae084a7669517ae11bd476f11063c0936e069ba4e5bc03e1f
+data/fec_events_clean.json             459897  73bc70a66e9c0f18fe7f20c1fdec1dbd4e7205b1ff8a77b4905f87adac9eef20
+data/fec_raw.csv                       186415  9321fc4b149486ade55e659882f376a75d88a87625ed941626a45918e7b8312c
+data/fec_snapshot_20261017.csv         189208  10e8d3fd87e613d67673889da05863fc78802b1bb61ef676dc6a6e8f7fc03012
+data/summary_counts.csv                  1685  9c916814d56d25bdd672a4406cf4b6a06fcf926eed78e53b81f027c04598c798
+docs/clean_report.txt                    2620  a6ec529065f0e5058ff3c8a468b4b3da9dbe273ffee3acdbf0acad0a98567c5b
+docs/codebook.md                         6712  442c004e70d79c86e550c3f204e0411c019ae69fdd2316bdd4fc7cff6a0d17e3
+docs/export_report.txt                   1371  648ce8bd4635bf47ed93f285a9882db5bc99e2b8455bd873ecea5b3d4239d951
+docs/field_report.txt                    1008  320e9ed2e490e496f62adc07faa87db41f9be0ba09112c5b836cc39209fc7e6c
+docs/field_stats.csv                      963  1816d952992aed0cb1e53ed1f9ba0ecfe3f5aec6785f1f30644a17c7ec9f391e
+docs/field_stats.txt                     6002  04762937ed38416134666ddfcfe53350b55e9bc64882ad43dcaf76794ec1d1a1
+docs/known_issues.md                     6924  d66d8fced8078c6dd5c8de2bbefec848a8f264eb87855e7be804d937f501f1cb
+docs/methodology.md                      8464  8f8cbff6c018b0fcfa67206f74907769373e14beca8865273f9487ca7e6d6114
+docs/snapshot_diff.txt                   1575  272026fd8276c70675d93574f6f15376163138163b5e5b4f66334586da009277
+docs/summary.txt                         5441  09f482f2c824927704a2eb4702d7b9ab14db9bca623ef5f03636cb54f386c6f0
+LICENSE                                 18657  9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
+README.md                                7858  118c06282b7934104d28e783dc8b68ca626e8f48d155fd95e955b669ff743cf6
+scripts/00_scrape.cmd                     345  d2db284a4f8ec8731d17564006f9172891f673a3d65f0701bdab77ad6b73c56a
+scripts/00_scrape.py                    16046  3d4e75f592e2c5d14ec31dd955804f1d7a5b72e8200a47d2ce4d9c5df1124bf6
+scripts/01_profile.py                    2078  2387d6a625b92b3c6f90e6a0b4b2cecdf2c3de65daa1f45f8abb328addad47bd
+scripts/02_snapshot.py                   5692  feb50948f4621f34280989445a6d7326b9ef3e61c060851d43321d7e1a669154
+scripts/03_clean.py                     12124  8943d9c31f2fbe076997e6c34089d2b94c15ca3f4d2d4ef8b733001e813feced
+scripts/04_summary.py                    6239  15b4e6db8f7799783a6f5c415161aedaaf256d82e14ddeb14c57dbe577ec9df4
+scripts/05_fieldstats.py                 6376  c818e22222e656e57a021715ba852070fbf697e187bc60f65c5b551d1562b2bb
+scripts/06_export.py                     4210  4cd032163a76e1c0c011fec16be7317303e4a33a43707bcedbc6fb3c7b5609b1
+scripts/make_manifest.py                 1093  c33a2db7e3ee7e4beac35a9d9f64c57d6209667bc090968d456c83128d7c9f10

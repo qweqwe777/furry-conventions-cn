@@ -1,0 +1,56 @@
+导出报告
+==============================================================================
+CSV   : 511 行 × 31 列
+JSON  : 511 条（orient=records，逐条一个对象）
+编码  : CSV 为 UTF-8 with BOM（Excel 直接双击不乱码）；JSON 为 UTF-8 无 BOM
+
+类型转换失败：无
+
+source_id 唯一值 : 511 / 511  ✓ 可作主键
+event_key 唯一值 : 499 / 511（源站 slug 复用，不可作主键，已在 codebook 说明）
+
+日期/天数一致性：1 处例外
+  2026-apr-ningbo-con-419ld85 : end_date 早于 start_date：2026-04-30 → 2026-04-19
+
+空值（null）字段排行：
+  info_source               338   66.1%
+  type                      172   33.7%
+  lat                       104   20.4%
+  lng                       104   20.4%
+  venue_name                 37    7.2%
+  venue_type                  8    1.6%
+  status                      1    0.2%
+  city_slug                   1    0.2%
+
+列清单（31）：
+  event_key
+  source_id
+  name
+  start_date
+  end_date
+  year
+  weekday_start
+  days
+  days_published
+  scale
+  type
+  venue_type
+  status
+  city
+  city_slug
+  region
+  macro_region
+  venue_name
+  lat
+  lng
+  org_slug
+  org_name
+  organizer_count
+  info_source
+  url
+  is_repeat_city
+  is_repeat_org
+  first_year_in_city
+  org_event_seq
+  same_name_city_seq
+  name_is_year
