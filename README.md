@@ -134,6 +134,12 @@ silently corrected.
 }
 ```
 
+The BibTeX above pins the **version DOI**
+([`10.5281/zenodo.23448132`](https://doi.org/10.5281/zenodo.23448132)) — that is
+the right choice when you need exactly the bytes a paper analysed. To cite "this
+dataset, whatever the latest release is", use the concept DOI
+[`10.5281/zenodo.23448131`](https://doi.org/10.5281/zenodo.23448131) instead.
+
 A [`CITATION.cff`](CITATION.cff) is included for GitHub's "Cite this repository"
 button. If you use this dataset, please also cite the source calendar
 (furrycons.cn) as the origin of the records.
